@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LCOT-Hydrogen-and-Ammonia
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Quang Vu
+    family-names: Dinh
+    affiliation: University College Cork
+  - given-names: Pedro H.
+    family-names: Todesco Pereira
+    affiliation: 'OWC, ABL Group'
+repository-code: >-
+  'https://github.com/wind-to-hydrogen-toolkit/LCOT-Hydrogen-and-Ammonia'
+keywords:
+  - Levelised cost of transmission
+  - Electrolysis
+  - Hydrogen offloading and storage
+  - Sensitivity analysis
+license: Apache-2.0
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Quang Vu
+      family-names: Dinh
+      affiliation: University College Cork
+    - given-names: Pedro H.
+      family-names: Todesco Pereira
+      affiliation: 'OWC, ABL Group'
+    - given-names: Van Nguyen
+      family-names: Dinh
+      affiliation: 'OWC, ABL Group'
+    - given-names: Angela J.
+      family-names: Nagle
+      affiliation: University College Cork
+    - given-names: Paul G.
+      family-names: Leahy
+      affiliation: University College Cork
+  title: >-
+    Levelised cost of transmission comparison for green hydrogen and ammonia
+    in new-build offshore energy infrastructure: Pipelines, tankers, and HVDC
+  doi: '10.1016/j.ijhydene.2024.03.066'
+  journal: International Journal of Hydrogen Energy
+  year: 2024
+  month: 4
+  volume: 62
+  start: 684 # First page number
+  end: 698 # Last page number
